@@ -1,2 +1,0 @@
-# KeysGuard
-https://keysguard.tech

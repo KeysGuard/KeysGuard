@@ -1,23 +1,29 @@
-# KeysGuard
+# 🔐 KeysGuardQ – Quantum Threat Intelligence Platform
 
-**Quantum Threat Intelligence & Security Orchestration**
+> Autonomous defense. AI-enhanced intel. One interface.
 
-KeysGuard is a next-generation platform dedicated to real-time, AI-enhanced cyber threat intelligence and defense automation.
+KeysGuardQ is a next-gen, browser-based threat intelligence platform that delivers live threat analysis, simulation, and decision-making tools — no backend, no dependencies.
 
-## Mission
-KeysGuard aims to provide resilient, automated protection through predictive modeling, dark web monitoring, malware analysis, and quantum-ready infrastructure.
+![Banner](https://yourdomain.com/banner.png)
 
-## Core Capabilities
-- Threat Feed Aggregation
-- Predictive TTP Correlation
-- Real-Time SOC Automation
-- Discord + Dashboard Integrations
-- Quantum Threat Enrichment Engine
+## 🧠 Key Features
+- 🌍 Live Global Threat Map & Actor Correlation
+- 📡 AI Forecasting for TTPs, malware, & attack paths
+- 🧰 Built-in Red Team Simulator & SOC playbook generator
+- 🌐 OSINT/NLP: Dark web, paste leaks, chatter analysis
+- 🔎 Auto-extract IOCs + MITRE TTP correlation
 
-## License
-- Free for personal and non-commercial use under MIT
-- Commercial usage requires licensing — see `COMMERCIAL.md`
+## ⚙️ Use Cases
+- Red Team Planning  
+- SOC Threat Forecasting  
+- IR Playbook Generation  
+- Analyst Intelligence Workflows
 
----
+## 💥 Built for
+- Threat Hunters
+- Cyber Analysts
+- Red Team Operators
+- Autonomous SOCs
 
-© 2025 KeysGuard — All rights reserved.
+> This is just the lite version. Stay tuned for full KeysGuard.
+

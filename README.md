@@ -4,7 +4,7 @@
 
 KeysGuardQ is a next-gen, browser-based threat intelligence platform that delivers live threat analysis, simulation, and decision-making tools — no backend, no dependencies.
 
-![Banner](https://yourdomain.com/banner.png)
+![Banner](https://github.com/KeysGuard/KeysGuard/blob/main/404-shield.png)
 
 ## 🧠 Key Features
 - 🌍 Live Global Threat Map & Actor Correlation
